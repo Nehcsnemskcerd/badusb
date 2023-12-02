@@ -20,7 +20,7 @@ SHIFT TAB
 DELAY 500
 BACKSPACE
 DELAY 500
-STRING your@email.com
+STRING yannicwohlgemuth2@gmail.com
 CTRL ENTER
 DELAY 1000
 REM Moves to the next email
